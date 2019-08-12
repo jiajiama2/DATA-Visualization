@@ -1,4 +1,4 @@
-# DATA-Visualization - Matplotlib and Folium map show case
+# DATA-Visualization - Bar Chart and map show case
 # Data_Visualization (1).ipynb file - 
  1. Data preparation and examining the csv file (mainly use Pandas and numpy)
  2. Create bar chart to visualize a survey results (mainly use matplotlib)
